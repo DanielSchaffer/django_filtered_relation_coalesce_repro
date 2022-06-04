@@ -6,7 +6,7 @@ authors = ["Daniel Schaffer <dschaffer@instawork.com>"]
 
 [tool.poetry.dependencies]
 python = "^3.9"
-django = "3.2.12"
+django = "3.2.13"
 django-mysql = "^4.6.0"
 pytest-django = "^4.5.2"
 mysqlclient = "^2.1.0"
